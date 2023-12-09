@@ -35,4 +35,5 @@ This Python script brings the classic Rock Paper Scissors game to life, providin
 2. Open a terminal window and navigate to the directory containing the file.
 3. Run the script using the following command:
    ```bash
-    python rock_paper_scissors.py ```
+    python rock_paper_scissors.py
+   ```
