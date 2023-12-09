@@ -1,5 +1,7 @@
 # Rock Paper Scissors Game - Python
 
+![Rock Paper Scissors](rpc.png)
+
 ## Overview
 
 This Python script brings the classic Rock Paper Scissors game to life, providing an interactive and engaging experience. The game features a user-friendly interface, clear instructions, and smart functionalities, making it a perfect choice for a quick gaming session.
