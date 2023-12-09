@@ -31,7 +31,7 @@ This Python script brings the classic Rock Paper Scissors game to life, providin
 
 ## Running the Game
 
-1. Save the code as a Python file (e.g., `rock_paper_scissors.py`).
+1. Save the code as a Python file (e.g., `main.py`).
 2. Open a terminal window and navigate to the directory containing the file.
 3. Run the script using the following command:
    ```bash
